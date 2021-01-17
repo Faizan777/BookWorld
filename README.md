@@ -1,4 +1,4 @@
-![Image](Screenshot 2..PNG)
+![Image](Screenshot.PNG)
 
 
 
