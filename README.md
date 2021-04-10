@@ -2,7 +2,7 @@
 
 
 Live demo available on https://ecsbookfaizan.herokuapp.com/
-### `Note : Wait for few seconds after opening above link , As list of books is long `
+### `Note : Wait for few seconds after opening above link , As list of books is long. Objects Take time to load based on network `
 
 ### `npm start`
 
